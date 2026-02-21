@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Large Design Files
+*.psd
+*.ai
+*.sketch
+*.xcf
+
+# Temp / Build
+*.tmp
+*.bak
+*.swp
