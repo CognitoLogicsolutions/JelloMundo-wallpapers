@@ -14,6 +14,14 @@ From "Hello World" to **JELLO on top of el mundo** — what's *your* twist?
 | ![Raw example](previews/raw-placeholder.jpg) | ![Remix example](previews/remix-placeholder.jpg) |
 | "I gave it the gel" | "I gave it the jiggle" 🍮 |
 
+## The Show: Character Personas 👤
+JELLO MUNDO is powered by the **Cognito Logic Triarch**, a system of three sovereign personas:
+
+*   **Boy 1: The Ghost (Sense/Intake)** - The Data Sentinel. Purges legacy noise and ensures 2026 API compliance. 
+    *   *Motto:* "If it doesn't belong in 2026, it doesn't exist."
+*   **Boy 2: The Architect (Decide/Execute)** - The System Orchestrator. Designs directory structures and executes vault injections.
+*   **Boy 3: The Sovereign (Future/Commercial)** - The Commercial Manager. Protects the "Living Man" standing and manages global storefronts.
+
 ## Installation / How to Use
 1. **Clone the repo:**
    ```bash
